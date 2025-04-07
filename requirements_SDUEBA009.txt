@@ -1,0 +1,12 @@
+gensim
+matplotlib
+numpy==1.26.4
+pandas
+scipy
+scikit-learn
+subgroups
+torch
+transformers
+tspg
+ucimlrepo
+umap-learn
