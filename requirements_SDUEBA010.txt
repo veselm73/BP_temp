@@ -6,6 +6,5 @@ scipy==1.13.1
 scikit-learn==1.6.1
 torch==2.6.0+cu124
 transformers==4.50.3
-#tspg==1.0
 ucimlrepo==0.0.7
 umap-learn==0.5.7
