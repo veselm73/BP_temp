@@ -10,4 +10,5 @@ umap-learn==0.5.3
 ucimlrepo==0.0.7
 jax==0.4.23
 jaxlib==0.4.23
+hdbscan
 # tspg is a GitHub repo, not PyPI
